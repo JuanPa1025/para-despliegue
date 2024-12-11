@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\super-engine-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\controllers\\abonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\abonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\abonoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\abonoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\tipodehabitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\tipodehabitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\recuperacion\\cambiarcontrasena.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\recuperacion\\cambiarcontrasena.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\tipodehabitacions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\tipodehabitacions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\recuperacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\habitacions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\habitacions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\habitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\habitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|d:\\games\\super-engine-main\\glamping_addventure3\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbonoesController.cs",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:21:13.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CambiarContrasena.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Recuperacion\\CambiarContrasena.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Recuperacion\\CambiarContrasena.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Recuperacion\\CambiarContrasena.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Recuperacion\\CambiarContrasena.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:19:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:15:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\TipodeHabitacions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\TipodeHabitacions\\Edit.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\TipodeHabitacions\\Edit.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\TipodeHabitacions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:13:39.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\TipodeHabitacions\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\TipodeHabitacions\\Index.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\TipodeHabitacions\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\TipodeHabitacions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:13:32.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecuperacionController.cs",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\RecuperacionController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:09:37.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:41:25.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAYBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:02:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAM0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:56:17.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAmwHABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:40:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:14:26.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:12:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\appsettings.json",
+              "RelativeDocumentMoniker": "glamping_addventure3\\appsettings.json",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\appsettings.json",
+              "RelativeToolTip": "glamping_addventure3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T18:07:00.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Program.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Program.cs",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Program.cs",
+              "RelativeToolTip": "glamping_addventure3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:07:01.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAALABAAAAAAAAAAAmwMYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:02:43.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:01:23.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "D:\\Games\\super-engine-main\\glamping_addventure3\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:30:16.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
